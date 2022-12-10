@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Balek</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h1 align="center">Balek ➒➏➊</h1>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <h4 align="center">📫 How to reach me <a href="mailto: muhammedfurkanbalek@gmail.com">muhammedfurkanbalek@gmail.com</a> </h3>
 
