@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Balek</h1>
 <h3 align="center">A Full-Stack developer from Turkey</h3>
 
-<h4 align="center">📫 How to reach me <a href="muhammedfurkanbalek@gmail.com"</a> </h3>
+<h4 align="center">📫 How to reach me <a href="muhammedfurkanbalek@gmail.com">muhammedfurkanbalek@gmail.com</a> </h3>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
