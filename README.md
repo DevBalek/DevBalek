@@ -16,7 +16,7 @@ I'm a Full-Stack Mobile/Web Developer
 ![](https://github-profile-trophy.vercel.app/?username=DevBalek&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevBalek&icon=8&color=6)](https://visitcount.itsvg.in)
